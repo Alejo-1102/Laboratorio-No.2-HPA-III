@@ -3,7 +3,7 @@
 > **Carrera / Grupo:** Ingeniería en Sistemas Computacionales (III Año) - Grupo 1IL133  
 > **Instructor(a):** Ing. Irina Fong  
 > **Fecha Límite de Entrega:** 31 de agosto de 2026
-> **Autor:** Alejandro Garcia
+> **Autor:** Alejandro Garcia / 8-10322-677
 
 ## Descripción General
 Repositorio oficial que contiene el desarrollo de las actividades correspondientes al Laboratorio #2: Clases en C#, centrado en el Módulo II (Elementos Básicos del Lenguaje). El objetivo principal es la aplicación de la Programación Orientada a Objetos (POO), modelado UML, estructuración de clases, métodos con parámetros, variables de instancia, propiedades con descriptores get/set y control de errores en C#.
